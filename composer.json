@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/website",
     "autoload": {
         "psr-4": {
             "LeoGalleguillos\\Website\\": "src/",
